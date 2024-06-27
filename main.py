@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
+
 app = Flask(__name__)
 
 # Sample data for training the model
